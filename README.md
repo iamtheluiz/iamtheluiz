@@ -1,8 +1,10 @@
 ### Boas Vindas 👋
 
-Técnico em Informática para Internet e estudante de Engenharia da Computação na Universidade São Judas Tadeu. Desenvolvo sites e sistemas para estudar e procuro aplicar meus conhecimentos de tecnologia nas aulas de engenharia quando vejo a possibilidade.
+Boa vindas! Meu nome é Luiz Gustavo, atuo como Consultor em Tecnologia (DevOps), sou formado como Técnico em Informática para Internet e estudante de Engenharia da Computação.
 
-Já contribui, voluntariamente, no desenvolvimento de um sistema de certificados, e hoje tenho desenvolvido um site para disseminação da engenharia como projeto de extensão.
+Tenho me dedicado a aprender cada vez mais sobre o ecossistema de tecnologia, buscando praticar minhas habilidades como desenvolvedor de software e aperfeiçoar meus conhecimentos em infraestrutura e operações.
+
+Acredito que linguagens e ferramentas são instrumentos para atender uma necessidade, sendo necessário e importante conseguir experimentar e aprender novos conhecimentos a cada oportunidade.
 
 ### Tecnologias
 
