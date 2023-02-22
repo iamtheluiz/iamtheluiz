@@ -1,6 +1,6 @@
 ### Boas Vindas 👋
 
-Boas vindas! Meu nome é Luiz Gustavo, atuo como Consultor em Tecnologia (DevOps), sou formado como Técnico em Informática para Internet e estudante de Engenharia da Computação.
+Boas vindas! Meu nome é Luiz Gustavo, atuo como Consultor em Tecnologia (Development & Data Intelligence & DevOps), sou formado como Técnico em Informática para Internet e estudante de Engenharia da Computação.
 
 Tenho me dedicado a aprender cada vez mais sobre o ecossistema de tecnologia, buscando praticar minhas habilidades como desenvolvedor de software e aperfeiçoar meus conhecimentos em infraestrutura e operações.
 
